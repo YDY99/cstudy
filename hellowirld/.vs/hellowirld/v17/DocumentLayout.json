@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaqxs\\source\\repos\\hellowirld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\source\\repos\\hellowirld\\hellowirld\\compire.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\compire.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\source\\repos\\hellowirld\\hellowirld\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "compire.c",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\hellowirld\\hellowirld\\compire.c",
+              "RelativeDocumentMoniker": "hellowirld\\compire.c",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\hellowirld\\hellowirld\\compire.c",
+              "RelativeToolTip": "hellowirld\\compire.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-11T07:48:35.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello.c",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\hellowirld\\hellowirld\\hello.c",
+              "RelativeDocumentMoniker": "hellowirld\\hello.c",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\hellowirld\\hellowirld\\hello.c",
+              "RelativeToolTip": "hellowirld\\hello.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-11T07:29:20.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
