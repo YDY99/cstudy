@@ -14,7 +14,7 @@ int Main(void)
 	printf num1 + num2;
 	printf("첫번쨰 정수를 입력해주세요");
 	scanf_S(" %d, 3 ");
-	printf("두번쨔 정수를 입력하세요");
+	printf("두번째 정수를 입력하세요");
 	scanf_s(" %d 2");
 	printf 
 	

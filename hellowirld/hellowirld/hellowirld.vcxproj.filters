@@ -30,5 +30,25 @@
     <ClCompile Include="입력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lectures1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lectures2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lectures3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lectures4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lectures.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
