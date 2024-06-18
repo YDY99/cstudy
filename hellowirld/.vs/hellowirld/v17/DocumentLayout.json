@@ -3,16 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lectures4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lecture7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lectures3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lectures2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,11 +18,20 @@
       "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lectures3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lectures4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lectures2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,58 +50,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "lecture7.c",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture7.c",
+              "RelativeDocumentMoniker": "hellowirld\\lecture7.c",
+              "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture7.c",
+              "RelativeToolTip": "hellowirld\\lecture7.c",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAEYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-18T07:05:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "lectures4.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures4.c",
               "RelativeDocumentMoniker": "hellowirld\\lectures4.c",
               "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures4.c",
               "RelativeToolTip": "hellowirld\\lectures4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-14T08:40:05.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "lectures3.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures3.c",
               "RelativeDocumentMoniker": "hellowirld\\lectures3.c",
               "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures3.c",
               "RelativeToolTip": "hellowirld\\lectures3.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAKAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-14T08:29:16.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Microsoft.CppBuild.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABICAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-06-14T08:23:34.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "lectures2.c",
-              "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures2.c",
-              "RelativeDocumentMoniker": "hellowirld\\lectures2.c",
-              "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures2.c",
-              "RelativeToolTip": "hellowirld\\lectures2.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-14T08:09:47.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "lectures1.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures1.c",
               "RelativeDocumentMoniker": "hellowirld\\lectures1.c",
@@ -105,38 +96,37 @@
               "RelativeToolTip": "hellowirld\\lectures1.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-14T07:43:48.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:43:48.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "lectures.h",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures.h",
               "RelativeDocumentMoniker": "hellowirld\\lectures.h",
               "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures.h",
               "RelativeToolTip": "hellowirld\\lectures.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-14T07:33:02.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\main.c",
               "RelativeDocumentMoniker": "hellowirld\\main.c",
               "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\main.c",
               "RelativeToolTip": "hellowirld\\main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-14T07:18:20.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "hello.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\hello.c",
               "RelativeDocumentMoniker": "hellowirld\\hello.c",
@@ -146,6 +136,31 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-14T07:09:38.249Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ViewState": "AQIAABoCAAAAAAAAAAAgwBICAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-14T08:23:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lectures2.c",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures2.c",
+              "RelativeDocumentMoniker": "hellowirld\\lectures2.c",
+              "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures2.c",
+              "RelativeToolTip": "hellowirld\\lectures2.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-14T08:09:47.087Z"
             }
           ]
         }
