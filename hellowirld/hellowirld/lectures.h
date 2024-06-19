@@ -11,6 +11,7 @@
 //void lectures3();
 //void lectures4();
 //void lectures5();
+//void lecture7();
 
-void lecture7();
+ void lecture8();
 
