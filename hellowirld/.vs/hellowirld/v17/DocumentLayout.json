@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lecture14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lecture11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7B686DCF-696E-4E39-98AD-34C2D5FBFE66}|hellowirld\\hellowirld.vcxproj|solutionrelative:hellowirld\\lecture9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -54,7 +62,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "lectures1.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures1.c",
               "RelativeDocumentMoniker": "hellowirld\\lectures1.c",
@@ -68,19 +76,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "lecture14.c",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture14.c",
+              "RelativeDocumentMoniker": "hellowirld\\lecture14.c",
+              "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture14.c",
+              "RelativeToolTip": "hellowirld\\lecture14.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-27T07:02:37.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lecture11.c",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture11.c",
+              "RelativeDocumentMoniker": "hellowirld\\lecture11.c",
+              "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture11.c",
+              "RelativeToolTip": "hellowirld\\lecture11.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-24T07:05:05.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "lecture9.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture9.c",
               "RelativeDocumentMoniker": "hellowirld\\lecture9.c",
               "ToolTip": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture9.c",
               "RelativeToolTip": "hellowirld\\lecture9.c",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAiwFcAAAAHAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAiwFcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-20T07:32:19.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T07:32:19.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "lecture8.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture8.c",
               "RelativeDocumentMoniker": "hellowirld\\lecture8.c",
@@ -88,12 +120,11 @@
               "RelativeToolTip": "hellowirld\\lecture8.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-19T07:05:08.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T07:05:08.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "lecture7.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lecture7.c",
               "RelativeDocumentMoniker": "hellowirld\\lecture7.c",
@@ -101,12 +132,11 @@
               "RelativeToolTip": "hellowirld\\lecture7.c",
               "ViewState": "AQIAAFIAAAAAAAAAAAAAADoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-18T07:05:23.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T07:05:23.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "lectures4.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures4.c",
               "RelativeDocumentMoniker": "hellowirld\\lectures4.c",
@@ -118,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "lectures3.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures3.c",
               "RelativeDocumentMoniker": "hellowirld\\lectures3.c",
@@ -130,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "lectures.h",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures.h",
               "RelativeDocumentMoniker": "hellowirld\\lectures.h",
@@ -138,12 +168,11 @@
               "RelativeToolTip": "hellowirld\\lectures.h",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-14T07:33:02.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:33:02.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\main.c",
               "RelativeDocumentMoniker": "hellowirld\\main.c",
@@ -151,8 +180,7 @@
               "RelativeToolTip": "hellowirld\\main.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-14T07:18:20.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:18:20.287Z"
             },
             {
               "$type": "Bookmark",
@@ -164,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "hello.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\hello.c",
               "RelativeDocumentMoniker": "hellowirld\\hello.c",
@@ -172,12 +200,11 @@
               "RelativeToolTip": "hellowirld\\hello.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-14T07:09:38.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:09:38.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "lectures2.c",
               "DocumentMoniker": "C:\\Users\\zaqxs\\OneDrive\\\uBB38\uC11C\\GitHub\\cstudy\\hellowirld\\hellowirld\\lectures2.c",
               "RelativeDocumentMoniker": "hellowirld\\lectures2.c",
@@ -185,8 +212,7 @@
               "RelativeToolTip": "hellowirld\\lectures2.c",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-14T08:09:47.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T08:09:47.087Z"
             },
             {
               "$type": "Bookmark",
