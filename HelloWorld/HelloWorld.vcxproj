@@ -136,7 +136,17 @@
     <ClCompile Include="lecture13_switch.c" />
     <ClCompile Include="lecture14.c" />
     <ClCompile Include="lecture15.c" />
+    <ClCompile Include="lecture16.c" />
+    <ClCompile Include="lecture17.c" />
+    <ClCompile Include="lecture18.c" />
+    <ClCompile Include="lecture19.c" />
     <ClCompile Include="lecture2.c" />
+    <ClCompile Include="lecture20.c" />
+    <ClCompile Include="lecture21.c" />
+    <ClCompile Include="lecture22.c" />
+    <ClCompile Include="lecture23.c" />
+    <ClCompile Include="lecture24.c" />
+    <ClCompile Include="lecture25.c" />
     <ClCompile Include="lecture3.c" />
     <ClCompile Include="lecture4.c" />
     <ClCompile Include="lecture5.c" />

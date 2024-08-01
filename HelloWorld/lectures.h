@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void lecture1();
 void lecture2();
@@ -31,3 +32,13 @@ void lecture13();
 void lecture13_2();
 void lecture14();
 void lecture15();
+void lecture16();
+void lecture17();
+void lecture18();
+void lecture19();
+void lecture20();
+void lecture21();
+void lecture22();
+void lecture23();
+void lecture24();
+void lecture25();
